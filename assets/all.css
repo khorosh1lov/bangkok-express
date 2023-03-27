@@ -1,0 +1,33 @@
+@import './css/global.css';
+@import './css/filters.css';
+@import './css/404.css';
+
+/* Partials */
+
+/* Button */
+@import './css/partials/button.css';
+
+/* Carousel */
+@import './css/partials/carousel.css';
+
+/* RibbonMenu */
+@import './css/partials/ribbonMenu.css';
+
+/* StepSlider */
+@import './css/partials/stepSlider.css';
+
+/* ProductCard */
+@import './css/partials/productCard.css';
+
+/* ProductsGrid */
+@import './css/partials/productsGrid.css';
+
+/* Modal */
+@import './css/partials/modal.css';
+
+/* CartIcon */
+@import './css/partials/cartIcon.css';
+
+/* Cart */
+@import './css/partials/cart/cart.css';
+
